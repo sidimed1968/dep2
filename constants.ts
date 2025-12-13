@@ -4,8 +4,8 @@ import { MinistryContact, Translation, AssetDeclaration, Wilaya } from './types'
 // --- CONFIGURATION ---
 // COLLEZ VOTRE URL GOOGLE APPS SCRIPT ICI POUR QU'ELLE SOIT ACTIVE PAR DÉFAUT PARTOUT
 export const DEFAULT_GOOGLE_SHEET_URL = ""; 
-
-export const WILAYAS: Wilaya[] = [https://script.google.com/macros/s/AKfycbzhHDUhy7yFhHXmlQVztUmW73Ef9ikJJTY9wsHVuSF12lbq5QCDFiIz6latqfot30Xn/exec
+https://script.google.com/macros/s/AKfycby4gEyN31UTn-f9KNHHt5cT_EgeUJQMLUGR1nyNPlpDTbNVz-xggDuLX2Q261cVNUWPKg/exec
+export const WILAYAS: Wilaya[] = [
   'Adrar', 'Assaba', 'Brakna', 'Dakhlet Nouadhibou', 'Gorgol', 
   'Guidimaka', 'Hodh Ech Chargui', 'Hodh El Gharbi', 'Inchiri', 
   'Nouakchott Nord', 'Nouakchott Ouest', 'Nouakchott Sud', 

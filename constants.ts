@@ -3,7 +3,7 @@ import { MinistryContact, Translation, AssetDeclaration, Wilaya } from './types'
 
 // --- CONFIGURATION ---
 // COLLEZ VOTRE URL GOOGLE APPS SCRIPT ICI POUR QU'ELLE SOIT ACTIVE PAR DÉFAUT PARTOUT
-export const DEFAULT_GOOGLE_SHEET_URL = ""; 
+export const DEFAULT_GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxt2jds3z5G-aRhChx1gKz4Q3y_t4aspRDe1GGhra-VEfBfT-EOjCPdYCuK6Oe66AMMbA/exec"; 
 https://script.google.com/macros/s/AKfycby4gEyN31UTn-f9KNHHt5cT_EgeUJQMLUGR1nyNPlpDTbNVz-xggDuLX2Q261cVNUWPKg/exec
 export const WILAYAS: Wilaya[] = [
   'Adrar', 'Assaba', 'Brakna', 'Dakhlet Nouadhibou', 'Gorgol', 
